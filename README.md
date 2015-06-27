@@ -1,6 +1,8 @@
 # CKEditor 4 Image Upload
 Simple hidden iframe image upload button for CKEditor 4
 
+* Download files
+* Upload imageupload folder to the ckeditor plugins folder
 
 ```
 <script src="/js/plugins/ckeditor/ckeditor.js"></script>
