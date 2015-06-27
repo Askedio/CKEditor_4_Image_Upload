@@ -17,6 +17,6 @@ var action = '/admin/create/upload';
 var field  = 'upload';
 ```
 
-Form action = action
-Form file field = field
-Form response should be the url to the image
+* Form action = action
+* Form file field = field
+* Form response should be the url to the image
