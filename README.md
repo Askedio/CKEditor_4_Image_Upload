@@ -5,7 +5,7 @@ Simple hidden iframe image upload button for CKEditor 4
 * Upload imageupload folder to the ckeditor plugins folder
 
 ```
-<script src="/js/plugins/ckeditor/ckeditor.js"></script>
+<script src="/ckeditor/ckeditor.js"></script>
 <script>
   CKEDITOR.plugins.addExternal('imageupload', '/ckeditor/plugins/imageupload/', 'plugin.js');
   var editor = CKEDITOR.inline('editable', { extraPlugins: 'imageupload' });
